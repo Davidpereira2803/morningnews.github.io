@@ -2,7 +2,9 @@
 
 The Wall Screen is website designed to be hosted in your local network and it allows to control and see different things on a screen on the wall. 
 
-The main point of this project is to have a webapp that allows to display all the necessary and desired information in one single customized place. In this way one can access the To Do list see the weather.. in one single place. 
+The main point of this project is to have a webapp that allows to display all the necessary and desired information in one single customized place. In this way one can access the To Do list see the weather.. in one single place.
+
+There might be a future version of the project, where the webapp is rewritten into an actual app for pc.
 
 ## Main Functionalities
 The main functionalities of the project is to display the wheater in your city, the news around the world, the finance and current prices of the market,...
@@ -40,4 +42,9 @@ Of course, the project can be expanded to include everything you need.
 ## Note
 
 Not all functionallities have been finished the whole project is still in development.
+
+## To Add
+- [Daily quotes]
+- [background pictures of cars and motorcycles turn the web pap more personel and customized with fun and aesthetic variables]
+-[draw on one screen and display it on the website]
 
